@@ -1,2 +1,2 @@
 # Formula-Retrieve-By-InternLM
-基于InternLM实现标准中的公式检索和计算
+该项目基于InternLM，实现标准或规范pdf文件中的公式检索和计算。
